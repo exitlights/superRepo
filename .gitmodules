@@ -1,0 +1,6 @@
+[submodule "SWRISIL"]
+	path = SWRISIL
+	url = https://github.com/exitlights/SWRISIL
+[submodule "TA3"]
+	path = TA3
+	url = https://github.com/exitlights/TA3
